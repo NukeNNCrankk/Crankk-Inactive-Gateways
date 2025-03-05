@@ -1,0 +1,1086 @@
+brandUpdateTime: '2025-01-06T10:25:16.382Z'
+firstLoadSocialIcons: false
+font-fallback:
+  default: arial
+  headings: arial
+campaignType: template
+fieldsHistory: []
+subject: 'Get Your Gateway Back Online: Quick & Easy Steps!'
+ui:
+  showDeleteOption: false
+  showMoreOption: false
+user-hash: a35b300dcda318ea78800af77bd079bf
+author: ""
+hideSwapBanner: null
+name: ""
+id: ""
+version: 3.0.1
+fields: {}
+fonts:
+  - 'https://fonts.googleapis.com/css2?family=Rubik'
+  - 'https://fonts.googleapis.com/css2?family=Work Sans'
+  - 'https://fonts.googleapis.com/css2?family=Rethink+Sans:ital,wght@0,400..800;1,400..800&display=swap'');'
+styles:
+  default:
+    properties:
+      color: '#3b3f44'
+      font-family: 'Rethink Sans'
+      font-size: 16px
+      line-height: '1.5'
+    title: css.default.fontFamily
+  default-button:
+    properties:
+      background-color: '#3bb292'
+      border-color: '#3bb292'
+      border-radius: 4px
+      border-width: 0px
+      color: '#fff'
+      font-family: 'Rethink Sans'
+      font-size: 16px
+      remove-vml-button: optional
+      width: 50%
+    title: Button
+  default-heading1:
+    properties:
+      color: '#1F2D3D'
+      font-family: 'Rethink Sans'
+      font-size: 36px
+    title: 'Heading 1'
+  default-heading2:
+    properties:
+      color: '#1F2D3D'
+      font-family: 'Rethink Sans'
+      font-size: 32px
+    title: 'Heading 2'
+  default-heading3:
+    properties:
+      color: '#1F2D3D'
+      font-family: 'Rethink Sans'
+      font-size: 24px
+    title: 'Heading 3'
+  default-heading4:
+    properties:
+      color: '#1F2D3D'
+      font-family: 'Rethink Sans'
+      font-size: 18px
+    title: 'Heading 4'
+  default-link:
+    properties:
+      color: '#3bb292'
+      text-decoration: underline
+    title: Link
+media:
+  320px:
+    max-width: 600
+    min-width: 0
+body:
+  content:
+    -
+      type: rows
+      thumbnail: null
+      isCustomBlock: null
+      customBlockId: null
+      moduleName: null
+      sidebarSection: null
+      sync-module-id: null
+      content-type: wrapper
+      title: Wrapper
+      stylable: false
+      layout:
+        320px:
+          width: 320px
+        default:
+          align: center
+          valign: top
+      content:
+        -
+          type: grid-row
+          thumbnail: /assets/img/editor/grid_12.svg
+          isCustomBlock: null
+          customBlockId: null
+          moduleName: viewInBrowser
+          sidebarSection: null
+          sync-module-id: null
+          align: top
+          title: section
+          stylable: false
+          layout:
+            320px:
+              display: rows
+              width: 100%
+            default:
+              align: center
+              full-width: true
+              background-color: transparent
+              display: none
+              padding-bottom: 5px
+              padding-top: 5px
+              width: 100%
+              valign: top
+              padding-left: null
+              padding-right: null
+          content:
+            -
+              type: grid-column
+              thumbnail: null
+              isCustomBlock: null
+              customBlockId: null
+              moduleName: null
+              sidebarSection: null
+              sync-module-id: null
+              isEmpty: false
+              label: 'Drop content here'
+              title: 'column 1'
+              stylable: false
+              layout:
+                320px: {}
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+                -
+                  type: text
+                  thumbnail: null
+                  isCustomBlock: null
+                  customBlockId: null
+                  moduleName: null
+                  sidebarSection: null
+                  sync-module-id: null
+                  title: Webversion
+                  stylable: false
+                  layout:
+                    320px:
+                      padding-left: 10px
+                      padding-right: 10px
+                      width: 100%
+                    default:
+                      align: center
+                      line-height: 16px
+                      padding-left: 30px
+                      padding-right: 30px
+                      text-align: center
+                      width: 100%
+                  content: "<p><a href=\"{{ mirror }}\">\n                      <span style=\"font-family: arial,helvetica,sans-serif;color:#858588;font-size: 12px; text-decoration: underline;\">\n                      View in browser</span></a></p>"
+          dist: '12'
+          gutter: 0px
+        -
+          type: grid-row
+          thumbnail: /assets/img/editor/element-header.svg
+          isCustomBlock: null
+          customBlockId: null
+          moduleName: header
+          sidebarSection: null
+          sync-module-id: null
+          align: top
+          title: Header
+          stylable: false
+          layout:
+            320px:
+              display: rows
+              width: 100%
+            default:
+              align: center
+              width: 100%
+              valign: top
+              padding-left: null
+              padding-right: null
+          content:
+            -
+              type: grid-column
+              thumbnail: null
+              isCustomBlock: null
+              customBlockId: null
+              moduleName: null
+              sidebarSection: null
+              sync-module-id: null
+              isEmpty: false
+              label: 'Drop content here'
+              title: grid-column
+              stylable: false
+              layout:
+                320px: {}
+                default:
+                  background-color: '#ffffff'
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+                -
+                  type: image
+                  thumbnail: /assets/img/editor/element_image.svg
+                  isCustomBlock: null
+                  customBlockId: null
+                  moduleName: null
+                  sidebarSection: null
+                  sync-module-id: null
+                  title: Image
+                  stylable: false
+                  layout:
+                    320px:
+                      max-width: 320px
+                      width: 100%
+                    default:
+                      align: left
+                      canvas-height: 134.15625px
+                      dynamic: false
+                      embed: false
+                      img-border-radius: 0px
+                      imgSize: '26078'
+                      removeMargin: false
+                      background-position: center
+                      background-repeat: no-repeat
+                      background-size: auto
+                      border-radius: 0px
+                      border-width: 0px
+                      margin-bottom: 0px
+                      margin-top: 0px
+                      padding-bottom: 24px
+                      padding-left: 12px
+                      padding-right: 0px
+                      padding-top: 72px
+                      width: 220px
+                      valign: top
+                  content:
+                    src: 'https://img.mailinblue.com/5886247/images/content_library/original/67712e4e90383cc2ad8885e7.png'
+                -
+                  type: divider
+                  thumbnail: /assets/img/editor/element_divider.svg
+                  isCustomBlock: null
+                  customBlockId: null
+                  moduleName: null
+                  sidebarSection: null
+                  sync-module-id: null
+                  title: Divider
+                  stylable: false
+                  layout:
+                    320px:
+                      width: 100%
+                    default:
+                      align: center
+                      border-color: '#cccccc'
+                      border-style: solid
+                      display: auto
+                      padding-bottom: 30px
+                      padding-top: 30px
+                      width: 100%
+                      border-width: 1px
+          dist: '12'
+          gutter: 0px
+        -
+          type: grid-row
+          thumbnail: /assets/img/editor/element-header.svg
+          isCustomBlock: null
+          customBlockId: null
+          moduleName: header
+          sidebarSection: null
+          sync-module-id: null
+          align: top
+          title: Header
+          stylable: false
+          layout:
+            320px:
+              display: rows
+              width: 100%
+            default:
+              align: center
+              width: 100%
+              valign: top
+              padding-left: null
+              padding-right: null
+          content:
+            -
+              type: grid-column
+              thumbnail: null
+              isCustomBlock: null
+              customBlockId: null
+              moduleName: null
+              sidebarSection: null
+              sync-module-id: null
+              isEmpty: false
+              label: 'Drop content here'
+              title: grid-column
+              stylable: false
+              layout:
+                320px: {}
+                default:
+                  background-color: '#ffffff'
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+                -
+                  type: text
+                  thumbnail: /assets/img/editor/element-title.svg
+                  isCustomBlock: null
+                  customBlockId: null
+                  moduleName: text-title
+                  sidebarSection: null
+                  sync-module-id: null
+                  title: Title
+                  stylable: false
+                  layout:
+                    320px:
+                      width: 100%
+                    default:
+                      align: left
+                      removePadding: true
+                      direction: ltr
+                      line-height: '1'
+                      padding-bottom: 0px
+                      padding-left: 12px
+                      padding-right: 0px
+                      padding-top: 16px
+                      text-align: left
+                      text-valign: top
+                      width: 100%
+                      valign: top
+                  content: '<h1 class="default-heading1"><strong>Inactive Gateway Light Gateways</strong></h1>'
+          dist: '12'
+          gutter: 0px
+        -
+          type: grid-row
+          thumbnail: /assets/img/editor/grid_12.svg
+          isCustomBlock: null
+          customBlockId: null
+          moduleName: grid-row12
+          sidebarSection: null
+          sync-module-id: null
+          align: top
+          title: section
+          stylable: false
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              padding-bottom: 20px
+              padding-top: 20px
+              width: 100%
+              valign: top
+              padding-left: null
+              padding-right: null
+          content:
+            -
+              type: grid-column
+              thumbnail: null
+              isCustomBlock: null
+              customBlockId: null
+              moduleName: null
+              sidebarSection: null
+              sync-module-id: null
+              isEmpty: false
+              title: 'column 1'
+              stylable: false
+              layout:
+                320px: {}
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+                -
+                  type: text
+                  thumbnail: /assets/img/editor/element_text.svg
+                  isCustomBlock: null
+                  customBlockId: null
+                  moduleName: null
+                  sidebarSection: null
+                  sync-module-id: null
+                  title: Text
+                  stylable: false
+                  layout:
+                    320px:
+                      width: 100%
+                    default:
+                      align: left
+                      padding-bottom: 15px
+                      padding-top: 15px
+                      text-align: left
+                      text-valign: top
+                      width: 100%
+                      valign: top
+                  content: '<p><strong>Dear Crankkster,</strong><br>&nbsp;</p><p>It seems that your Light Crankk Gateway (or Gateways) has been temporarily offline, and we’re here to help you get it back up and running quickly. Just follow these simple steps:<br>&nbsp;</p><ol><li><strong>Power up your gateway</strong> and ensure it''s properly connected to your network.</li><li><strong>Restart the gateway</strong> and check if it becomes active again.</li><li><strong>Check your Gateway’s Dashboard</strong> (each manufacturer has a different dashboard) and ensure that the secondary LoRaWAN servers are correctly added according to your region. Also, double-check the ports:<ul><li><strong>lora-us.crankk.io&nbsp;</strong></li><li><strong>lora-eu.crankk.io</strong></li><li><strong>lora-cn.crankk.io</strong></li><li><strong>lora-au.crankk.io</strong></li></ul></li></ol><p><strong>Ports:</strong></p><ul><li><strong>Port Up</strong>: 1700</li><li><strong>Port Down</strong>: 1700</li></ul><ol><li><strong>Redo the Crankk onboarding</strong> on your gateway by following the easy-to-follow steps in our <a href="https://crankk.io/downloads"><u>Guides</u></a>.<br>&nbsp;</li></ol><p>If the issue persists, don’t worry! Our friendly <strong>Technical Support</strong> team is here to help:<br>&nbsp;</p><ol><li><strong>Open a support ticket via Discord:</strong> <a href="https://discord.com/channels/954459049720680479/1161357507558654163"><u>Link</u></a></li><li>Or, <strong>create a ticket directly on Telegram:</strong> <a href="https://crankk.io/captcha/Crankk.php"><u>Link</u></a><br>&nbsp;</li></ol><p>For easy management of your devices, <strong>download our mobile app</strong> from the <a href="https://play.google.com/store/search?q=crankk&amp;c=apps"><strong><u>Google Play Store</u></strong></a> or <a href="https://apps.apple.com/us/app/crankk/id6504231994"><strong><u>App store</u></strong></a>!<br>&nbsp;</p><p>If you have any questions or need further assistance, don’t hesitate to reach out. We’re here for you every step of the way!<br>&nbsp;</p><p>Cheers,<br><strong>Your Crankk Team</strong></p>'
+          dist: '12'
+          gutter: 30px
+        -
+          type: grid-row
+          thumbnail: /assets/img/editor/grid_12.svg
+          isCustomBlock: null
+          customBlockId: null
+          moduleName: grid-row12
+          sidebarSection: null
+          sync-module-id: null
+          align: top
+          title: section
+          stylable: false
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              padding-bottom: 20px
+              padding-top: 20px
+              width: 100%
+              valign: top
+              padding-left: null
+              padding-right: null
+          content:
+            -
+              type: grid-column
+              thumbnail: null
+              isCustomBlock: null
+              customBlockId: null
+              moduleName: null
+              sidebarSection: null
+              sync-module-id: null
+              isEmpty: false
+              title: 'column 1'
+              stylable: false
+              layout:
+                320px: {}
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+                -
+                  type: image
+                  thumbnail: /assets/img/editor/element_image.svg
+                  isCustomBlock: null
+                  customBlockId: null
+                  moduleName: null
+                  sidebarSection: null
+                  sync-module-id: null
+                  title: Image
+                  stylable: false
+                  layout:
+                    320px:
+                      max-width: 320px
+                      width: 100%
+                    default:
+                      align: center
+                      canvas-height: 447.359375px
+                      dynamic: false
+                      embed: false
+                      img-border-radius: 0px
+                      imgSize: '20491'
+                      padding-bottom: 15px
+                      padding-top: 15px
+                      width: 100%
+                      valign: top
+                  content:
+                    src: 'https://img.mailinblue.com/5886247/images/content_library/original/677152f722339aec1196de3a.jpg'
+          dist: '12'
+          gutter: 30px
+        -
+          type: grid-row
+          thumbnail: /assets/img/editor/grid_12.svg
+          isCustomBlock: null
+          customBlockId: null
+          moduleName: grid-row12
+          sidebarSection: null
+          sync-module-id: null
+          align: top
+          title: section
+          stylable: false
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              padding-bottom: 8px
+              padding-top: '-10px'
+              width: 100%
+              valign: top
+              padding-left: null
+              padding-right: null
+          content:
+            -
+              type: grid-column
+              thumbnail: null
+              isCustomBlock: null
+              customBlockId: null
+              moduleName: null
+              sidebarSection: null
+              sync-module-id: null
+              isEmpty: false
+              title: 'column 1'
+              stylable: false
+              layout:
+                320px: {}
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+                -
+                  type: divider
+                  thumbnail: /assets/img/editor/element_divider.svg
+                  isCustomBlock: null
+                  customBlockId: null
+                  moduleName: null
+                  sidebarSection: null
+                  sync-module-id: null
+                  title: Divider
+                  stylable: false
+                  layout:
+                    320px:
+                      width: 100%
+                    default:
+                      align: center
+                      border-color: '#cccccc'
+                      border-style: solid
+                      display: auto
+                      padding-bottom: 30px
+                      padding-top: 30px
+                      width: 100%
+                      border-width: 1px
+          dist: '12'
+          gutter: 30px
+        -
+          type: grid-row
+          thumbnail: /assets/img/editor/grid_12.svg
+          isCustomBlock: null
+          customBlockId: null
+          moduleName: grid-row12
+          sidebarSection: null
+          sync-module-id: null
+          align: top
+          title: section
+          stylable: false
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              padding-bottom: 14px
+              padding-top: 14px
+              width: 100%
+              valign: top
+              padding-left: null
+              padding-right: null
+          content:
+            -
+              type: grid-column
+              thumbnail: null
+              isCustomBlock: null
+              customBlockId: null
+              moduleName: null
+              sidebarSection: null
+              sync-module-id: null
+              isEmpty: false
+              title: 'column 1'
+              stylable: false
+              layout:
+                320px: {}
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+                -
+                  type: image
+                  thumbnail: 'https://img.mailinblue.com/5886247/images/content_library/original/67716c4790383cc2ad888c82.png'
+                  isCustomBlock: null
+                  customBlockId: null
+                  moduleName: brand-logo
+                  sidebarSection: null
+                  sync-module-id: null
+                  title: Logo
+                  stylable: false
+                  layout:
+                    320px:
+                      max-width: 320px
+                      width: 100%
+                    default:
+                      align: left
+                      canvas-height: 32px
+                      dynamic: false
+                      embed: false
+                      img-border-radius: 0px
+                      imgSize: '30570'
+                      width: 32px
+                      valign: top
+                  content:
+                    src: 'https://img.mailinblue.com/5886247/images/content_library/original/67716c4790383cc2ad888c82.png'
+          dist: '12'
+          gutter: 30px
+        -
+          type: grid-row
+          thumbnail: /assets/img/editor/grid_12.svg
+          isCustomBlock: null
+          customBlockId: null
+          moduleName: grid-row12
+          sidebarSection: null
+          sync-module-id: null
+          align: top
+          title: section
+          stylable: false
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              padding-bottom: 20px
+              padding-top: 20px
+              width: 100%
+              valign: top
+              padding-left: null
+              padding-right: null
+          content:
+            -
+              type: grid-column
+              thumbnail: null
+              isCustomBlock: null
+              customBlockId: null
+              moduleName: null
+              sidebarSection: null
+              sync-module-id: null
+              isEmpty: false
+              title: 'column 1'
+              stylable: false
+              layout:
+                320px: {}
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+                -
+                  type: text
+                  thumbnail: /assets/img/editor/element_text.svg
+                  isCustomBlock: null
+                  customBlockId: null
+                  moduleName: null
+                  sidebarSection: null
+                  sync-module-id: null
+                  title: Text
+                  stylable: false
+                  layout:
+                    320px:
+                      width: 100%
+                    default:
+                      align: left
+                      line-height: '1'
+                      padding-bottom: 0px
+                      padding-top: 0px
+                      text-align: left
+                      text-valign: top
+                      width: 100%
+                      valign: top
+                  content: '<p><span style="color:#666666;font-family:''rethink sans'';font-size:14px;">Enjoyed this week''s update?  If you have any feedback, drop us a line at <u>support@crankk.io</u></span></p>'
+          dist: '12'
+          gutter: 30px
+        -
+          type: grid-row
+          thumbnail: /assets/img/editor/grid_12.svg
+          isCustomBlock: null
+          customBlockId: null
+          moduleName: grid-row12
+          sidebarSection: null
+          sync-module-id: null
+          align: top
+          title: section
+          stylable: false
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              padding-bottom: 20px
+              padding-top: 20px
+              width: 100%
+              valign: top
+              padding-left: null
+              padding-right: null
+          content:
+            -
+              type: grid-column
+              thumbnail: null
+              isCustomBlock: null
+              customBlockId: null
+              moduleName: null
+              sidebarSection: null
+              sync-module-id: null
+              isEmpty: false
+              title: 'column 1'
+              stylable: false
+              layout:
+                320px: {}
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+                -
+                  type: social-media-group
+                  thumbnail: /assets/img/editor/element_social.svg
+                  isCustomBlock: null
+                  customBlockId: null
+                  moduleName: null
+                  sidebarSection: null
+                  sync-module-id: null
+                  title: Social
+                  stylable: false
+                  layout:
+                    320px:
+                      icon-size: 32px
+                      icon-spacing: 8px
+                      width: 100%
+                    default:
+                      align: left
+                      icon-filter: light
+                      icon-form: rounded
+                      icon-size: 32px
+                      icon-spacing: 6px
+                      padding-bottom: 0px
+                      padding-top: 0px
+                      width: 100%
+                  content:
+                    -
+                      type: social-media
+                      thumbnail: null
+                      isCustomBlock: null
+                      customBlockId: null
+                      moduleName: null
+                      sidebarSection: null
+                      sync-module-id: null
+                      role: twitter
+                      title: twitter
+                      read-only: true
+                      stylable: true
+                      layout:
+                        320px:
+                          icon-spacing: 8px
+                        default:
+                          title: twitter
+                          padding-bottom: 5px
+                          padding-top: 5px
+                      content:
+                        href: 'https://twitter.com/IoCrankk'
+                        src: 'https://creative-assets.mailinblue.com/editor/social-icons/rounded_light/twitter_32px.png'
+                        alt: null
+                    -
+                      type: social-media
+                      thumbnail: null
+                      isCustomBlock: null
+                      customBlockId: null
+                      moduleName: null
+                      sidebarSection: null
+                      sync-module-id: null
+                      role: discord
+                      title: discord
+                      read-only: true
+                      stylable: true
+                      layout:
+                        320px:
+                          icon-spacing: 8px
+                        default:
+                          title: discord
+                          padding-bottom: 5px
+                          padding-top: 5px
+                      content:
+                        href: 'https://discord.gg/vkFBbbvDqB'
+                        src: 'https://creative-assets.mailinblue.com/editor/social-icons/rounded_light/discord_32px.png'
+                        alt: null
+                    -
+                      type: social-media
+                      thumbnail: null
+                      isCustomBlock: null
+                      customBlockId: null
+                      moduleName: null
+                      sidebarSection: null
+                      sync-module-id: null
+                      role: youtube
+                      title: youtube
+                      read-only: true
+                      stylable: true
+                      layout:
+                        320px:
+                          icon-spacing: 8px
+                        default:
+                          title: youtube
+                          padding-bottom: 5px
+                          padding-top: 5px
+                      content:
+                        href: 'https://www.youtube.com/@crankk.network'
+                        src: 'https://creative-assets.mailinblue.com/editor/social-icons/rounded_light/youtube_32px.png'
+                        alt: null
+                    -
+                      type: social-media
+                      thumbnail: null
+                      isCustomBlock: null
+                      customBlockId: null
+                      moduleName: null
+                      sidebarSection: null
+                      sync-module-id: null
+                      role: instagram
+                      title: instagram
+                      read-only: true
+                      stylable: true
+                      layout:
+                        320px:
+                          icon-spacing: 8px
+                        default:
+                          title: instagram
+                          padding-bottom: 5px
+                          padding-top: 5px
+                      content:
+                        href: 'https://www.instagram.com/crankk.io/'
+                        src: 'https://creative-assets.mailinblue.com/editor/social-icons/rounded_light/instagram_32px.png'
+                        alt: null
+                    -
+                      type: social-media
+                      thumbnail: null
+                      isCustomBlock: null
+                      customBlockId: null
+                      moduleName: null
+                      sidebarSection: null
+                      sync-module-id: null
+                      role: linkedin
+                      title: linkedin
+                      read-only: true
+                      stylable: true
+                      layout:
+                        320px:
+                          icon-spacing: 8px
+                        default:
+                          title: linkedin
+                          padding-bottom: 5px
+                          padding-top: 5px
+                      content:
+                        href: 'https://www.linkedin.com/company/crankkio/'
+                        src: 'https://creative-assets.mailinblue.com/editor/social-icons/rounded_light/linkedin_32px.png'
+                        alt: null
+                    -
+                      type: social-media
+                      thumbnail: null
+                      isCustomBlock: null
+                      customBlockId: null
+                      moduleName: null
+                      sidebarSection: null
+                      sync-module-id: null
+                      role: telegram
+                      title: telegram
+                      read-only: true
+                      stylable: true
+                      layout:
+                        320px:
+                          icon-spacing: 8px
+                        default:
+                          title: telegram
+                          padding-bottom: 5px
+                          padding-top: 5px
+                      content:
+                        href: 'https://t.me/crankkofficial'
+                        src: 'https://creative-assets.mailinblue.com/editor/social-icons/rounded_light/telegram_32px.png'
+                        alt: null
+                    -
+                      type: social-media
+                      thumbnail: null
+                      isCustomBlock: null
+                      customBlockId: null
+                      moduleName: null
+                      sidebarSection: null
+                      sync-module-id: null
+                      role: tiktok
+                      title: tiktok
+                      read-only: true
+                      stylable: true
+                      layout:
+                        320px:
+                          icon-spacing: 8px
+                        default:
+                          title: tiktok
+                          padding-bottom: 5px
+                          padding-top: 5px
+                      content:
+                        href: 'https://www.tiktok.com/@crankk.io'
+                        src: 'https://creative-assets.mailinblue.com/editor/social-icons/rounded_light/tiktok_32px.png'
+                        alt: null
+                    -
+                      type: social-media
+                      thumbnail: null
+                      isCustomBlock: null
+                      customBlockId: null
+                      moduleName: null
+                      sidebarSection: null
+                      sync-module-id: null
+                      role: reddit
+                      title: reddit
+                      read-only: true
+                      stylable: true
+                      layout:
+                        320px:
+                          icon-spacing: 8px
+                        default:
+                          title: reddit
+                          padding-bottom: 5px
+                          padding-top: 5px
+                      content:
+                        href: 'https://www.reddit.com/r/crankk/'
+                        src: 'https://creative-assets.mailinblue.com/editor/social-icons/rounded_light/reddit_32px.png'
+                        alt: null
+          dist: '12'
+          gutter: 30px
+        -
+          type: grid-row
+          thumbnail: /assets/img/editor/grid_12.svg
+          isCustomBlock: null
+          customBlockId: null
+          moduleName: grid-row12
+          sidebarSection: null
+          sync-module-id: null
+          align: top
+          title: section
+          stylable: false
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              padding-bottom: 20px
+              padding-top: 20px
+              width: 100%
+              valign: top
+              padding-left: null
+              padding-right: null
+          content:
+            -
+              type: grid-column
+              thumbnail: null
+              isCustomBlock: null
+              customBlockId: null
+              moduleName: null
+              sidebarSection: null
+              sync-module-id: null
+              isEmpty: false
+              title: 'column 1'
+              stylable: false
+              layout:
+                320px: {}
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+                -
+                  type: text
+                  thumbnail: /assets/img/editor/element_text.svg
+                  isCustomBlock: null
+                  customBlockId: null
+                  moduleName: null
+                  sidebarSection: null
+                  sync-module-id: null
+                  title: Text
+                  stylable: false
+                  layout:
+                    320px:
+                      width: 100%
+                    default:
+                      align: left
+                      padding-bottom: 0px
+                      padding-top: 0px
+                      text-align: left
+                      text-valign: top
+                      width: 100%
+                      valign: top
+                  content: '<p><a href="{{ unsubscribe }}" title="Unsubscribe " target="_blank"><span style="color:#666666;font-family:''rethink sans'';font-size:14px;"><u>Unsubscribe</u></span></a></p>'
+          dist: '12'
+          gutter: 30px
+        -
+          type: grid-row
+          thumbnail: /assets/img/editor/grid_12.svg
+          isCustomBlock: null
+          customBlockId: null
+          moduleName: grid-row12
+          sidebarSection: null
+          sync-module-id: null
+          align: top
+          title: section
+          stylable: false
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              padding-bottom: 40px
+              padding-top: 0px
+              width: 100%
+              valign: top
+              padding-left: null
+              padding-right: null
+          content:
+            -
+              type: grid-column
+              thumbnail: null
+              isCustomBlock: null
+              customBlockId: null
+              moduleName: null
+              sidebarSection: null
+              sync-module-id: null
+              isEmpty: false
+              title: 'column 1'
+              stylable: false
+              layout:
+                320px: {}
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+                -
+                  type: text
+                  thumbnail: /assets/img/editor/element_text.svg
+                  isCustomBlock: null
+                  customBlockId: null
+                  moduleName: null
+                  sidebarSection: null
+                  sync-module-id: null
+                  title: Text
+                  stylable: false
+                  layout:
+                    320px:
+                      width: 100%
+                    default:
+                      align: left
+                      padding-bottom: 15px
+                      padding-top: 15px
+                      text-align: left
+                      text-valign: top
+                      width: 100%
+                      valign: top
+                  content: '<p><span style="color:#666666;font-family:''rethink sans'';font-size:14px;">© Crankk 2025. All rights reserved&nbsp;</span><br><span style="color:#666666;font-family:''rethink sans'';font-size:14px;">Built with passion &amp; love.</span></p>'
+          dist: '12'
+          gutter: 30px
+  layout:
+    320px:
+      width: 320px
+    default:
+      direction: ltr
+      wrapper-width: 600px
