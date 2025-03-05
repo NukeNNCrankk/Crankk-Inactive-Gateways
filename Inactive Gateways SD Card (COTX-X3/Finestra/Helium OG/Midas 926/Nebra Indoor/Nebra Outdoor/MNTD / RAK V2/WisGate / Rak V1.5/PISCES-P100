@@ -1075,7 +1075,7 @@ body:
                       text-valign: top
                       width: 100%
                       valign: top
-                  content: '<p><span style="color:#666666;font-family:''rethink sans'';font-size:14px;">© Crankk 2025. All rights reserved&nbsp;</span><br><span style="color:#666666;font-family:''rethink sans'';font-size:14px;">Build with passion &amp; love.</span></p>'
+                  content: '<p><span style="color:#666666;font-family:''rethink sans'';font-size:14px;">© Crankk 2025. All rights reserved&nbsp;</span><br><span style="color:#666666;font-family:''rethink sans'';font-size:14px;">Built with passion &amp; love.</span></p>'
           dist: '12'
           gutter: 30px
   layout:
