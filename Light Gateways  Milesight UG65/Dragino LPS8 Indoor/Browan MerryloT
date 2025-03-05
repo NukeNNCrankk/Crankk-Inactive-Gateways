@@ -335,7 +335,7 @@ body:
                       text-valign: top
                       width: 100%
                       valign: top
-                  content: '<h1 class="default-heading1"><strong>Inactive Gateway Light Gateways</strong></h1>'
+                  content: '<h1 class="default-heading1"><strong>Inactive Light Gateways</strong></h1>'
           dist: '12'
           gutter: 0px
         -
